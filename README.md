@@ -1,4 +1,4 @@
-# Cloud Project Server
+# CMPE-272-TwitterBE
 
 This is a basic Express application.
 
@@ -19,11 +19,7 @@ clone the repository
 
 gointo folder and install dependencies
 
-add a db config in env file
+add a twitter config in env file
 
 run the server
 
-
-
-# -CMPE-272-TwitterBE
-# -CMPE-272-TwitterBE
